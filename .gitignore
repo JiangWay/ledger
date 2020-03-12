@@ -1,0 +1,17 @@
+*.prefs
+*.location
+*.markers
+.metadata/
+ledger-integration/target/classes/
+ledger/.mvn/
+ledger-frontend/target/classes/
+clientdb.xml
+ledger-integration/target/test-classes/
+ledger-frontend/target/test-classes/
+ledger-integration/.project
+ledger-frontend/.project
+.project
+ledger-integration/.classpath
+ledger-frontend/.classpath
+ledger/mvnw
+ledger/mvnw.cmd
